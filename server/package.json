@@ -1,0 +1,31 @@
+{
+  "name": "officebackendserver",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "compression": "^1.7.4",
+    "connect-history-api-fallback": "^1.6.0",
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "express": "~4.16.1",
+    "express-validation": "^3.0.8",
+    "http-errors": "~1.6.3",
+    "jade": "~1.11.0",
+    "md5": "^2.3.0",
+    "moment": "^2.29.1",
+    "morgan": "~1.9.1",
+    "multiparty": "^4.2.2",
+    "mysql": "^2.18.1",
+    "node-xlsx": "^0.16.1",
+    "ua-parser-js": "^0.7.28"
+  },
+  "main": "app.js",
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

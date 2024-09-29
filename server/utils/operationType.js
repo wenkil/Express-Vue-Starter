@@ -1,0 +1,33 @@
+module.exports = {
+    LOGIN: "用户登录",
+    SYSTEMUSERLIST: "系统用户列表",
+    ADDSYSTEMUSER: "新增系统用户",
+    SYSTEMUSERCHANGEPASSWORD: "修改个人密码",
+    UPDATESYSTEMUSER: "编辑系统用户",
+    DELETESYSTEMUSER: "禁用&启用系统用户",
+    SYSTEM_USER_OPERATION_LIST: "系统用户操作记录",
+    ROLELIST: "权限列表",
+    ROLEADD: "新增角色",
+    ROLEUPDATE: "更新角色",
+    DEPLIST: "部门列表",
+    ADDDEP: "新增部门",
+    UPDATEDEP: "更新部门",
+    DELETEDEP: "删除部门",
+    STAFFLIST: "员工列表",
+
+    CLUESOURCE: "线索来源",
+    CLUEDATA: "线索列表",
+    CRMUSER: "客户列表",
+    CRMCONTACT: "联系人列表",
+    FOLLOWRECORD: "跟进记录",
+    CRMUSER_ANALYSE: "客户分析",
+
+    GOODS_TYPE: "产品分类",
+    GOODS_LIST: "产品列表",
+
+    ORDERLIST:'订单列表',
+    ORDERAPPROVELIST:'订单审核记录',
+    BACKMONEYLIST:'回款列表',
+    BACKMONEYAPPROVELIST:'回款审核记录',
+    ORDERFLOWLIST:'订单流程记录',
+};
